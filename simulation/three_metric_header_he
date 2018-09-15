@@ -1,0 +1,6 @@
+\tiny
+\begin{table}[p]
+\def~{\hphantom{0}}
+\tbl{Precision, Recall, F1 Score Under Heterogeneous Setting 1}{%
+\begin{tabular}{l@{\hskip 0.4in} ccc ccc ccc}
+& \multicolumn{3}{c}{Hard Thresholding}  & \multicolumn{3}{c}{Lasso} & \multicolumn{3}{c}{Adaptive Lasso}\\

@@ -1,0 +1,7 @@
+\small
+\begin{table}[p]
+\centering
+\def~{\hphantom{0}}
+\tbl{Precision, Recall, F1 Score($\%$) Under Homogeneous Setting}{%
+\begin{tabular}{l@{\hskip 0.4in} ccc ccc ccc}
+& \multicolumn{3}{c}{Hard Thresholding}  & \multicolumn{3}{c}{Lasso} & \multicolumn{3}{c}{Adaptive Lasso}\\

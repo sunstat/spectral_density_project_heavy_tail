@@ -1,0 +1,9 @@
+\tiny
+\begin{table}[p]
+\def~{\hphantom{0}}
+\tbl{RMISE (in $10^{-2}$) Under Heterogeneous Setting}{%
+\begin{tabular}{l@{\hskip 0.4in}ccccc}
+%\\
+\\
+& Smoothed   & Shrinkage& Hard Threshold   & Lasso & Adaptive Lasso\\
+\\
